@@ -1,0 +1,1 @@
+Move the correct DLL file into "C:\Program Files\Rainmeter\Plugins\"
